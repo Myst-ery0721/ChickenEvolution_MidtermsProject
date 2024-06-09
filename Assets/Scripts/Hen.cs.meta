@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b21b7b0c3afb7ff42880b84ed11e236e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Egg: {fileID: 2121300510054512050, guid: 958d069e9db609a4393269a3eb3130c0, type: 3}
+  - Eggpos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
